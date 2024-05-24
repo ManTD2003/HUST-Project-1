@@ -29,7 +29,7 @@ Thuật toán tìm đường đi mà mình sử dụng là **thuật toán A***.
 ### 3. Tạo website:
 Sử dụng framework `Django` để phát triển web nhanh chóng bằng `python`. Sử dụng file html đã tạo ở phần tiền xử lý để dùng làm giao diện cho web. Modules thuật toán sẽ được tính hợp để sử dụng tìm kiếm đường đi tại hai điểm bất kì trên bản đồ.
 
-## :anchor: Cách sử dụng:
+## Cách sử dụng:
   - Tới thư mục làm việc **website**
   ```bash
   cd ../website
